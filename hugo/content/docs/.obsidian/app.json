@@ -1,0 +1,10 @@
+{
+  "vimMode": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-AU"
+  ],
+  "attachmentFolderPath": ".",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
+}

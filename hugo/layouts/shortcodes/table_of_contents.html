@@ -1,0 +1,9 @@
+<ul class="toc">
+  <!-- https://gohugo.io/variables/site/ -->
+  {{ range .Site.Pages }}
+    <!-- https://gohugo.io/variables/page/ -->
+    {{ if eq (len .Ancestors) 2 }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  {{ end }}
+</ul>
