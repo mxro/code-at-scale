@@ -5,4 +5,4 @@ weight: 30
 
 # Strategy for Organisation
 
-The organisation and processes.
+The organisation and _processes_.

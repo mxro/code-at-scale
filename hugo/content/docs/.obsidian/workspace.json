@@ -149,15 +149,15 @@
   },
   "active": "b707ba5caafac81f",
   "lastOpenFiles": [
-    "about/framework.excalidraw.md",
-    "about/index.md",
-    "about/framework.excalidraw.dark.svg",
-    "about/framework.excalidraw.light.png",
-    "about/image-20230130125825257.png",
-    "strategy/people/index.md",
     "about/framework.excalidraw.light.svg",
-    "about/framework.excalidraw.dark.png",
+    "values/organisation/index.md",
+    "values/people/index.md",
     "values/you/index.md",
-    "values/organisation/index.md"
+    "values/_index.md",
+    "values/technology/index.md",
+    "about/index.md",
+    "about/framework.excalidraw.md",
+    "strategy/organisation/index.md",
+    "about/framework.excalidraw.light.png"
   ]
 }

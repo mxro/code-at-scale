@@ -5,4 +5,13 @@ weight: 10
 
 # Technology Values
 
-Technology strategy
+
+When we create technology, we should ... 
+
+## Craftmanship
+
+## Security
+
+## Reliability
+
+## Maintainability 
