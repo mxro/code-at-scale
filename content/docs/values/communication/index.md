@@ -10,7 +10,7 @@ weight: 50
 
 ## Tell Stories
 
-If you work in an organisation that has a set of corporate values, I expect that you will find them quite lame. Usually they are described as something like 'provide exceptional shareholder value' or 'be the best in XYZ'. No one cares!
+If you work in an organisation that has a set of corporate values, I expect that you will find them exceptionally lame. Usually they are described as something like 'provide exceptional shareholder value' or 'be the best in XYZ'. No one cares!
 
 Values are only powerful if they are enacted in every day interactions, and an excellent way to communicate values is to amplify stories of interactions that exemplify values.
 
