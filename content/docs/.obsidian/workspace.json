@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "values/communication/index.md",
+                "file": "values/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "values/communication/index.md",
+                "file": "values/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "values/communication/index.md",
+                "file": "values/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "values/communication/index.md"
+                "file": "values/_index.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "54714ee36875dea0",
   "lastOpenFiles": [
-    "values/organisation/index.md",
     "values/communication/index.md",
+    "values/organisation/index.md",
     "values/you/index.md",
     "values/_index.md",
     "values/people/index.md",

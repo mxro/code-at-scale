@@ -16,7 +16,7 @@ For effective technology leadership, I suggest to understand the values related 
 - _The people you serve_: The most direct impact you have is as a leader is on the people you work with directly or affect indirectly. Thus you should have a good understanding of the values you wish to guide your actions and the actions of the people you influence.
 - _The technology you create (or destroy)_: As technology leader, you shape the world by creating, changing and destroying technologies. Technology can be extremely powerful, thus you should carefully consider what kind of impact you would like to have in the sphere technology.
 - _The organisation structures you shape_: The context of work you create by establishing organisation structures and processes has a significant impact on the efficiency of the organisation and the well-being of the people working in it.
-- _You_: A leader often comes last but you must not loose track of what is important to you personally. If your personal values do not align with what is required to be _good_ at your job as a leader, it is difficult to be successful and easy to [burn out](https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us) 
+- _You_: A leader often comes last but you must not loose track of what is important to you personally. If your personal values do not align with what is required to be _good_ at your job as a leader, it is difficult to be successful and easy to [burn out](https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us) .
 
 In this chapter, I will provide some guidance on how to define your values and what values could help you be a more effective leader. 
 
