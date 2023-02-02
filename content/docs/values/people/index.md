@@ -11,7 +11,13 @@ Ultimately, you will have to define your own values. You probably already have. 
 
 I recommend that after going through this section to define your own set of _People Values_ for your own reference.
 
-## Fairness
+## Enable Autonomy
+
+## Build Trust
+
+## Encourage Mastery
+
+## Be Fair
 
 Humans have a strong preference for fairness. If you have siblings, you will know what I am talking about.
 
@@ -23,7 +29,7 @@ Thus I believe that as a leader you are well advised to value fairness and estab
 
 If you don't, you will quickly loose the respect of your people and they will come to dread rather than seek your judgement.
 
-## Nourishing
+## Nourish
 
 It is easy to see the workplace as a zero sum game. You win at the expense of others. After all, only one person can get the promotion.
 
@@ -31,7 +37,7 @@ Conversely it has been found that many successful leaders invest heavily into en
 
 Think about it: Who would you rather work for? A leader that always looks out for themselves or one you feel genuinely wants to support you in what is important to you.
 
-## Caring
+## Care
 
 We spend long hours of our lives at work. Most of these we share with our close colleagues in teams. Being part of a group is usually a nourishing experience for human beings. We need it and being together with others is important for our well-being.
 
