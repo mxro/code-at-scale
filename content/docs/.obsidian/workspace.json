@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "values/organisation/index.md",
+                "file": "values/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54714ee36875dea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "values/communication/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "values/organisation/index.md",
+                "file": "values/communication/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "values/organisation/index.md",
+                "file": "values/communication/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "values/organisation/index.md"
+                "file": "values/communication/index.md"
               }
             }
           },
@@ -155,17 +168,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0382fa4d7f0356f3",
+  "active": "54714ee36875dea0",
   "lastOpenFiles": [
-    "values/people/index.md",
     "values/organisation/index.md",
-    "values/technology/index.md",
+    "values/communication/index.md",
     "values/you/index.md",
+    "values/_index.md",
+    "values/people/index.md",
+    "values/technology/index.md",
     "about/index.md",
     "about/framework.excalidraw.light.svg",
-    "values/_index.md",
     "about/framework.excalidraw.md",
-    "strategy/organisation/index.md",
-    "about/framework.excalidraw.light.png"
+    "strategy/organisation/index.md"
   ]
 }
