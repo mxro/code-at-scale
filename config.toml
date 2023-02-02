@@ -1,3 +1,8 @@
+[module]
+[[module.imports]]
+  path = 'github.com/alex-shpak/hugo-book'
+
+
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Code at Scale'
