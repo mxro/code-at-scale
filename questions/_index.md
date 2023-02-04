@@ -7,5 +7,5 @@ weight: 100
 
 ## Personal Development
 
-- Do I want to become an engineering leader
-- 
+- Do I want to become an engineering leader?
+- How 
