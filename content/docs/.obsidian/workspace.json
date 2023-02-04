@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "values/communication/index.md",
+                "file": "_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95178cc45d631a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "questions/_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "values/communication/index.md",
+                "file": "questions/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "values/communication/index.md",
+                "file": "questions/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "values/communication/index.md"
+                "file": "questions/_index.md"
               }
             }
           },
@@ -168,8 +180,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54714ee36875dea0",
+  "active": "95178cc45d631a69",
   "lastOpenFiles": [
+    "_index.md",
     "values/_index.md",
     "values/communication/index.md",
     "values/organisation/index.md",
@@ -178,7 +191,6 @@
     "values/technology/index.md",
     "about/index.md",
     "about/framework.excalidraw.light.svg",
-    "about/framework.excalidraw.md",
-    "strategy/organisation/index.md"
+    "about/framework.excalidraw.md"
   ]
 }
